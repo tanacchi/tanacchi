@@ -1,4 +1,12 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanacchi&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanacchi&layout=default&hide=jupyter%20notebook,tex"/>
+</a>
+<br>
+
+![trophies](https://github-profile-trophy.vercel.app/?username=tanacchi&column=7&margin-w=5)
 
 <!--
 **tanacchi/tanacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
