@@ -6,7 +6,7 @@
 </a>
 <br>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=tanacchi&column=7&margin-w=5)
+![trophies](https://github-profile-trophy.vercel.app/?username=tanacchi&column=7&margin-w=8)
 
 <!--
 **tanacchi/tanacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
