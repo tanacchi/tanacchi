@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanacchi&count_private=true&show_icons=true&include_all_commits=true" />
 </span>
 <a href="https://tanacchi.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanacchi&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanacchi&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&card_width=500"/>
 </a>
 <p>   
   
