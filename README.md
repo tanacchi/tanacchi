@@ -1,13 +1,14 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://tanacchi.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanacchi&count_private=true&show_icons=true&include_all_commits=true" />
+</span>
+<a href="https://tanacchi.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanacchi&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanacchi&layout=default&hide=jupyter%20notebook,tex"/>
-</a>
-<br>
+<p>   
+  
+  ![trophies](https://github-profile-trophy.vercel.app/?username=tanacchi&column=7&margin-w=8)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=tanacchi&column=7&margin-w=8)
-
+<p>
 <!--
 **tanacchi/tanacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
