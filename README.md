@@ -2,10 +2,6 @@
 
 # tanacchi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=57606A&center=true&vCenter=true&width=620&lines=GitHub+%E3%81%A7%E3%81%AE%E6%B4%BB%E5%8B%95%E3%82%92%E8%A6%8B%E3%81%88%E3%82%8B%E5%8C%96%E3%81%97%E3%81%A6%E3%80%81%E6%AC%A1%E3%81%AE%E8%A3%BD%E4%BD%9C%E3%81%B8%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8B;Small+tools%2C+web+apps%2C+and+developer+workflows)](https://git.io/typing-svg)
-
-コード、ツール、Web アプリ、開発環境まわりを作りながら整えています。
-
 [![Website](https://img.shields.io/badge/Website-tanacchi.github.io-0969DA?style=flat-square&logo=githubpages&logoColor=white)](https://tanacchi.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-tanacchi-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/tanacchi)
 
